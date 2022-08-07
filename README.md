@@ -1,7 +1,7 @@
-MealApp  
+## MealApp  
 CMLABS pre-internship test
 
-## Introduction
+### Introduction
 
 This project is for CMLABS Frontend internship test. Built using NextJS and TailwindCSS, to run the project;
 
@@ -13,10 +13,10 @@ cd cmlabs-frontend-internship-test
 Next, install all dependencies:
 
 ```bash
-yarn add
+yarn
 ```
 
-Next, run the development server:
+Finally, run the development server:
 
 ```bash
 yarn dev
@@ -24,7 +24,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Library Used
+### Library Used
 <ul>
     <li>NextJS</li>
     <li>TailwindCSS</li>
